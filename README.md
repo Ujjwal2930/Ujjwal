@@ -24,3 +24,5 @@ I am currently working on improving my development skills <br>
 [![](https://visitcount.itsvg.in/api?id=Ujjwal2930&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+Day-2 : Getting into the development project , today I have written some sort of a code (HTML, CSS). Also faced some challenges and got stuck but sucessfully solved some of those but still there are a lot to be resolved.
