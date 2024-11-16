@@ -26,3 +26,5 @@ I am currently working on improving my development skills <br>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 Day-2 : Getting into the development project , today I have written some sort of a code (HTML, CSS). Also faced some challenges and got stuck but sucessfully solved some of those but still there are a lot to be resolved.
+
+Day-3 : Instagram-clone repo : https://github.com/Ujjwal2930/Instagram-clone.git
