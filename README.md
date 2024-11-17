@@ -29,4 +29,5 @@ Day-2 : Getting into the development project , today I have written some sort of
 
 Day-3 : Instagram-clone repo : https://github.com/Ujjwal2930/Instagram-clone.git
         One step further in developing the clone project (linking different pages to enhance the fuctionality).
-
+        
+Day-4 : Today I worked with javascript and made a menu bar using HTML, CSS (made dark mode slider kind of a thing using js). But faced lots of issues , tried to many of them but still a long way to go.
